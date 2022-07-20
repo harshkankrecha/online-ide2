@@ -1,0 +1,5 @@
+
+Django==3.2.10
+asgiref-3.5.2 
+sqlparse-0.4.2
+
